@@ -1,5 +1,24 @@
 {
-  "intents": [{"tag": "bernd markert dissertation",
+  "intents": [
+    {
+      "tag": "Greetings",
+      "patterns": [
+        "Hello?",
+        "Hi?",
+        "Mukomere?",
+        "Good Morning?",
+        "Mambo?"
+      ],
+      "responses": [
+        "Hello am Harry Maguire How can I help you?",
+        "Hello dear! How may i assist you?",
+        "Mukomere cyane! Tubafashe dute",
+        "Good morning, Maguire here! at your service",
+        "Poa, Maguire here! at your service"
+
+      ]
+    },
+    {"tag": "bernd markert dissertation",
      "patterns": ["Guide me to bernd markert dissertation?",
       "Where do you get bernd markert dissertation?",
       "What is the link to the bernd markert dissertation?",
