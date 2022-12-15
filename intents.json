@@ -1,6 +1,24 @@
 {
   "intents": [
     {
+      "tag": "Greetings",
+      "patterns": [
+        "Hello?",
+        "Hi?",
+        "Mukomere?",
+        "Good Morning?",
+        "Mambo?"
+      ],
+      "responses": [
+        "Hello am Harry Maguire How can I help you?",
+        "Hello dear! How may i assist you?",
+        "Mukomere cyane! Tubafashe dute",
+        "Good morning, Maguire here! at your service",
+        "Poa, Maguire here! at your service"
+
+      ]
+    },
+    {
       "tag": "essay writing vs creative writing",
       "patterns": [
         "Guide me to essay writing vs creative writing?",
