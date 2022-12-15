@@ -55,9 +55,10 @@ def predict():
     text = request.get_json().get("message")
     text, SL = process_question(text)
     #check if text is valid (I let it for you)
-    response = preprocessing(text)
+    texte = preprocessing(text)
+    response = get_response(texte)
     # we jsonify our response
-    response = get_response(response)
+    # response = get_response(response)
     response = process_answer(response, SL)
     message = {"answer":response}
 
