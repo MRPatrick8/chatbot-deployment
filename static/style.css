@@ -18,7 +18,8 @@ body {
     font-family: Gill Sans MT;
     font-weight: 400;
     font-size: 100%;
-    background: #0e0522;
+    background-image: url("https://botnation.ai/site/wp-content/uploads/2022/01/chatbot-1-1348x800.png");
+    background-size: cover;
 }
 
 *, html {
