@@ -3,18 +3,36 @@
     {
       "tag": "Greetings",
       "patterns": [
-        "Hello?",
-        "Hi?",
-        "Mukomere?",
-        "Good Morning?",
-        "Mambo?"
+        "Hello",
+        "Hi",
+        "Mukomere",
+        "Good Morning",
+        "Mambo"
       ],
       "responses": [
-        "You can use this link http://rura.rw/?essay-writing-vs-creative-writing for more information",
-        "You can use this link http://rura.rw/?essay-writing-vs-creative-writing for more information",
-        "You can use this link http://rura.rw/?essay-writing-vs-creative-writing for more information",
-        "You can use this link http://rura.rw/?essay-writing-vs-creative-writing for more information",
-        "You can use this link http://rura.rw/?essay-writing-vs-creative-writing for more information"
+        "Hello am maguire, How can I help you?",
+        "hello! how are you doing?",
+        "Mukomere, tubafashe dute!?",
+        "hi, pleasure to be of service",
+        "good morning, how can I help you?"
+
+      ]
+    },
+    {
+      "tag": "Greetings",
+      "patterns": [
+        "Thank you",
+        "bye",
+        "Murakoze",
+        "Goodbye",
+        "Asante"
+      ],
+      "responses": [
+        "Hello am maguire, How can I help you?",
+        "hello! how are you doing?",
+        "Mukomere, tubafashe dute!?",
+        "hi, pleasure to be of service",
+        "good morning, how can I help you?"
 
       ]
     },
