@@ -19,7 +19,7 @@
       ]
     },
     {
-      "tag": "Greetings",
+      "tag": "Endings",
       "patterns": [
         "Thank you",
         "bye",
@@ -28,11 +28,11 @@
         "Asante"
       ],
       "responses": [
-        "Hello am maguire, How can I help you?",
-        "hello! how are you doing?",
-        "Mukomere, tubafashe dute!?",
-        "hi, pleasure to be of service",
-        "good morning, how can I help you?"
+        "its a pleasure to be at your service!",
+        "you are welcome!",
+        "come again please!",
+        "Anytime!",
+        "happy to help!"
 
       ]
     },
