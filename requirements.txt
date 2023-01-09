@@ -3,8 +3,11 @@ Gunicorn
 flask_cors
 torch
 numpy
+nltk
+json
+re
+random
 # requests
 # model
-# json
-# re
+# 
 # random
