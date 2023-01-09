@@ -1,3 +1,4 @@
+detectlanguage
 Flask
 Flask_Cors
 nltk
