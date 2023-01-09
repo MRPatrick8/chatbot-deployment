@@ -1,9 +1,9 @@
 Flask
 Gunicorn
 flask_cors
-torch
-requests
-model
-json
-re
-random
+# torch
+# requests
+# model
+# json
+# re
+# random
