@@ -1,13 +1,7 @@
 Flask
-Gunicorn
-flask_cors
-torch
-numpy
+Flask_Cors
 nltk
-json
-re
-random
-# requests
-# model
-# 
-# random
+numpy
+requests
+torch
+Gunicorn
