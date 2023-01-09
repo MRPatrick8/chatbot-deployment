@@ -1,7 +1,7 @@
 Flask
 Gunicorn
 flask_cors
-# torch
+torch
 # requests
 # model
 # json
