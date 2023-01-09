@@ -2,6 +2,7 @@ Flask
 Gunicorn
 flask_cors
 torch
+numpy
 # requests
 # model
 # json
